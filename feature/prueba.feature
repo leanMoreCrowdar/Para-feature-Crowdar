@@ -1,1 +1,1 @@
-Se logró actualizar el contenido del file
+Se logró actualizar el contenido del documento
