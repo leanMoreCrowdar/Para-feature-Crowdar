@@ -1,6 +1,6 @@
 Feature: Cambio el feature
   
-  Scenario: crear un feature
+  Scenario: crear un LOLA
     Given todo ok
     When todo ok
     And todo ok
