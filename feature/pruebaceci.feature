@@ -1,6 +1,6 @@
 Feature: Cambio el feature
   
-  Scenario: crear un Funciona el actualizado mensaje nuevo
+  Scenario: crear un SE CAYÓ
     Given todo ok
     When todo ok
     And todo ok
