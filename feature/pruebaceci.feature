@@ -1,4 +1,4 @@
-Feature: esto es una prueba de bitbucket
+Feature: Cambio el feature
   
   Scenario: crear un feature
     Given todo ok
