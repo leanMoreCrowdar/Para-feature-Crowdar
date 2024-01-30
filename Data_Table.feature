@@ -1,5 +1,5 @@
 Feature: LEANDROsdfgfdg
-   Scenario: crear un SE CAYÓ
+   Scenario: crear un SE CAYo
     Given todo ok
     When todo ok
     And todo ok
