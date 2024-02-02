@@ -66,8 +66,8 @@ Feature: Gherkin scenarios
       | A   | 2    |
     Then the selected seats should be marked as "Booked"
     
-    Examples:
-      |movie |
+    Example:
+      |movie | | 
       | Titanic |
       | Indiana Jones|
       | SuperBloom |
