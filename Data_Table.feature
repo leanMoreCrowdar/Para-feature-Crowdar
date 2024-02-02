@@ -13,7 +13,7 @@
       And view the <message>
       And view change Tella <icon> 
     
-      Examples:
+      Example:
           | icon           | message                                                                   | 
           | iCamara        | please wait.you will return to your device´s home screen in a few seconds |
           | Selfie Cam     | please wait.you will return to your device´s home screen in a few seconds |
