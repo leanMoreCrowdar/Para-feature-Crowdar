@@ -15,7 +15,7 @@ Feature: f2
 
     @Automatable @Login
     Scenario: sce4
-        Given se3ooon
+        Given se3ooon 
         
     @Automatable 
     Scenario: gsgsg
