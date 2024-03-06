@@ -4,4 +4,4 @@ Feature: Cambio el feature
     Given todo ok
     When todo ok
     And todo ok
-    Then todo ok ok
+    Then todo ok ok 
