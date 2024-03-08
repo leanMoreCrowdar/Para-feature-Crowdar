@@ -1,7 +1,7 @@
 @JUANCARLOS
 Feature: Cambio el feature
   
-  @Automated
+  @Automated 
   Scenario: crear un SE CAYÓ
     Given todo ok
     When todo ok
