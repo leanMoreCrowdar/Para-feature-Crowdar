@@ -11,7 +11,7 @@ Feature: f2
 
     @Automatable @Login @Pedro
     Scenario: sce3
-        Given se3ooon
+        Given se3ooon 
 
     @Automatable @Login
     Scenario: sce4
