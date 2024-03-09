@@ -3,7 +3,7 @@ Feature: f2
 
     @Automated @ToBeAutomated @Login
     Scenario: sf2 
-        Given hll 
+        Given hll  
 
     @NoAutomatable @Login
     Scenario: sce2 
