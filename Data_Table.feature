@@ -2,7 +2,7 @@
   Feature: prueba
     Scenario Outline: Security - camouflage - change camuflaje method - change name and icon 
       When the user tap settings icon 
-      And taps "Security" option 
+      And taps "Security" option  
       And taps "Camouflage" option in security category 
       And set security code valid 
       And taps "Change camuflaje method" option
