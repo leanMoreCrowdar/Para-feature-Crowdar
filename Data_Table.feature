@@ -13,7 +13,7 @@ Feature: f2
     Scenario: sce3
         Given se3ooon 
 
-    @Automatable @Login 
+    @Automatable @Login  
     Scenario: sce4 
         Given se3ooon 
         
