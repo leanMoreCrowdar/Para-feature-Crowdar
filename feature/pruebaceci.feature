@@ -7,7 +7,7 @@ Feature: Cambio el feature
     When todo ok
     And todo ok
     Then todo ok ok 
-    
+     
     
   @Automated
   Scenario: crear un SE CAYÓ
