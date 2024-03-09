@@ -6,7 +6,7 @@ Feature: f2
         Given hll
 
     @NoAutomatable @Login
-    Scenario: sce2
+    Scenario: sce2 
         Given secooon
 
     @Automatable @Login @Pedro
