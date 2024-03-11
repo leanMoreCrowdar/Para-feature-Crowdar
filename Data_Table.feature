@@ -10,7 +10,7 @@
       And select <icon> option 
       And taps "next" option 
       And taps exit Tella option  
-      And view the <message>
+      And view the <message> 
       And view change Tella <icon> 
     
       Example:
