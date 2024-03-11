@@ -1,4 +1,4 @@
-  @Smoke @Android @Security @Camouflage
+  @Smoke @Android @Security @Camouflage @Juanelo
   Feature: prueba
     Scenario Outline: Security - camouflage - change camuflaje method - change name and icon 
       When the user tap settings icon 
