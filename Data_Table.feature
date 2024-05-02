@@ -44,6 +44,7 @@
           | Plant Care     | please wait.you will return to your device´s home screen in a few seconds |
           | Astrology      | please wait.you will return to your device´s home screen in a few seconds |
   
+    @Camouflage @Juanelo #Veamos si esto se rompe
     Scenario Outline: Security - camouflage - change camuflaje method - change name and icon 
         When the user tap settings icon 
         And taps "Security" option  
