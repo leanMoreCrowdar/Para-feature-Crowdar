@@ -3,6 +3,7 @@ Feature: f2
 
     @Automated @ToBeAutomated @Login
     Scenario: sf2 
+        When Yo realizo una '<operation>' hacia '<entity>' endpoint con el '<jsonRequest>' y ''
         Given lea < sdad >  
  
     @NoAutomatable @Login
