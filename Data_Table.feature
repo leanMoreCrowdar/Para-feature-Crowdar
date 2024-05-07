@@ -7,8 +7,7 @@ Feature: f2
  
     @NoAutomatable @Login
     Scenario: sce2 
-        Given secooon
-
+        Given prueba a 
     @Automatable @Login @Pedro 
     Scenario: sce3
         Given se3ooon 
