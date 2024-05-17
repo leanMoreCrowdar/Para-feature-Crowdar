@@ -1,4 +1,4 @@
-@PRUEBA @PRUEBA2 @PRUEBA3
+@PRUEBA @PRUEBA2 @PRUEBA3 @PRUEBA4
 Feature: f2
 
     @Automated @ToBeAutomated @Login
