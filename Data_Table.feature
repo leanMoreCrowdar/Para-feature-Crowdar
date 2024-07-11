@@ -5,7 +5,7 @@ Feature: f2
     Scenario: sf2 
         When Yo realizo una '<operation>' hacia '<entity>' endpoint con el '<jsonRequest>' y ''
         Given lea < sdad >  
-        When  prueba 'lea'
+        When  prueba 'lea' 
         When  prueba '< lea >'
 
     @NoAutomatable @Login
